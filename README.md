@@ -4,6 +4,7 @@
 ![License](https://img.shields.io/badge/license-FREE%20for%20personal%20use-green)
 ![Platform](https://img.shields.io/badge/platform-Windows-lightgrey)
 ![Language](https://img.shields.io/badge/language-C%23-purple)
+<img width="1336" height="877" alt="image" src="https://github.com/user-attachments/assets/d8a5777a-5284-44ee-9977-574edb90763e" />
 
 ##  Description
 
@@ -94,3 +95,4 @@ If you encounter any issues, please stop using the software immediately
 and contact the developer.
 This software is strictly free for personal use only. Any commercial use
 requires prior written consent from the developer.
+Download : https://github.com/khaabas-netizen/ZipMasterpro/releases/download/Zip/ZipMasterPro.exe
