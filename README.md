@@ -95,4 +95,5 @@ If you encounter any issues, please stop using the software immediately
 and contact the developer.
 This software is strictly free for personal use only. Any commercial use
 requires prior written consent from the developer.
+---
 Download : https://github.com/khaabas-netizen/ZipMasterpro/releases/download/Zip/ZipMasterPro.exe
